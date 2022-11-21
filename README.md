@@ -9,7 +9,7 @@ Our Arxiv Paper can be found here:
 [Slide Deck Images Dataset: Retrive and Create Educational Slides](coming soon)
 
 
-Annotation link [local lan](http://10.2.16.142:8000)
+Annotation link [Local LAN](http://10.2.16.142:8000)
 
  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
  
