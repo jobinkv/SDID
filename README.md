@@ -55,7 +55,7 @@ The slide images of SDI dataset are harvested from the [slideplayer web](https:/
 | ViT-L/14 |19.60 | 30.66 | 35.87 | 51.11 |58.40 |
 | ViT-L/14@336px |20.05 | 28.78 | 33.79 | 50.13 |58.59 |
 
-## Various text based slide image retrival and viceversa 
+## Various text based slide image retrival and v.v. 
 
 | Model | Text |T2I-1 | T2I-5 | T2I-10 |T2I-50 |T2I-100 | I2T-1 | I2T-5 | I2T-10 |I2T-50 |I2T-100 | 
 | --- | --- | --- | --- |--- | --- | --- | --- | --- | --- | --- | --- |
