@@ -41,7 +41,7 @@ The slide images of SDI dataset are harvested from the [slideplayer web](https:/
  We collected $1700$ slide deck with around $54K$ slide images after cleaning the collected slide image and removing duplicate slides,
 
 # Experiments
-Document figure retrival using sketch images
+## Document figure retrival using sketch images
 
 | Model | S2I-1 | S2I-5 | S2I-10 |S2I-50 |S2I-100 | 
 | --- |  --- | --- |--- | --- | --- |
