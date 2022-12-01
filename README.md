@@ -22,12 +22,23 @@ Annotation link [Local LAN](http://10.2.16.142:8000)
 This repo is divided into the following sections:
 
 * `dataset` -- this directory contains more information on the dataset structure 
-* `examples` -- quickstart to use our data (dataloading, visualization), and other tools
-* `src` -- contains our full experimental setup, including our proposed model and a dataloader that can be used to load the data
-* `preprocessing` -- scripts that can be used to automatically process the data 
-* `human_study` -- results of our human study, raw images and aligned captions can be downloaded here for quick investigation
 
-![](/images/overview.png)
+# The dataset
+The slide images of SDI dataset are harvested from the [slideplayer web](https://slideplayer.com/) with a popular computer science and  engineering course namely Data structures. The topics we used to search the slide images are the followings: 
+* Arrays and Structures
+* Stacks and Queues
+* Lists
+* Trees
+* Graphs
+* Sorting
+* Hashing
+* Heap Structures
+* Search Structures
+* Algorithms
+* Stacks and Queues
+* Binary trees.
+ 
+ We collected $1700$ slide deck with around $54K$ slide images after cleaning the collected slide image and removing duplicate slides,
 
 # Experiments
 Document figure retrival using sketch images
