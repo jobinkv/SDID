@@ -57,6 +57,7 @@ The slide images of SDI dataset are harvested from the [slideplayer web](https:/
 
 ## Todos
 * qualitative results
+* cycle gan based sketch generation
 
 ## Various text based slide image retrival and v.v. 
 
