@@ -91,3 +91,12 @@ The slide images of SDI dataset are harvested from the [slideplayer web](https:/
 | ViT-L/14 | layoutSummary |13.51 | 29.49 | 37.94 | 59.23 |67.93 |14.06 | 28.63 | 36.89 |56.28 |64.20 |
 | ViT-L/14@336px | layoutSummary |13.90 | 31.09 | 39.71 | 61.58 |70.04 |14.61 | 30.34 | 38.24 |57.35 |65.24 |
 
+
+ICFHR Notes
+
+1) https://github.com/asciusb/21SyntheticStylesNom-Database
+2) Synthetic generation 
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9494351
+
+
