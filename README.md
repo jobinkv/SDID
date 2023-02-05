@@ -100,3 +100,10 @@ ICFHR Notes
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9494351
 
 
+
+<p align="center">
+<img src="updatingtable1.jpg" />
+<em>
+<p> The caption
+</p></em>
+</p>
