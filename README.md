@@ -2,6 +2,8 @@
 
 This is the official repository for the *Slide Deck Images (SDI) Dataset* 
 
+![Alt text](Presentation1.gif "Title")
+
 The dataset can be downloaded here:
 [SDI Dataset Download](coming soon)
 
